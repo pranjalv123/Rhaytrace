@@ -8,4 +8,4 @@ Command line args are height width (in pixels)
 
 Example image:
 
-![Example Image](http://github.com/pranjalv123/Rhaytrace/raw/master/img/example.png)
+![Example Image](https://github.com/pranjalv123/Rhaytrace/raw/master/example.png)
